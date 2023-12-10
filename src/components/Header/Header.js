@@ -14,7 +14,7 @@ function Header() {
               <CallIcon /> <span className='p-6'>+91 9923620479</span>
             </div>
             <div className='d-flex-full'>
-              <PersonIcon /> <span className='p-6'>User 1</span>
+              <PersonIcon /> <span className='p-6'>User 1 (Login)</span>
             </div>
           </div>
         </div>
