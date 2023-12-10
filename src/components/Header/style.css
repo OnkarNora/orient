@@ -13,6 +13,9 @@
 }
 
 .header .header-info .contact-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 70%;
     background-color: black;
     color: white;
